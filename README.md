@@ -17,5 +17,4 @@ Ultimately the game worked, but I ended up debugging some things as I tried to a
 **Interactive game**: https://reactjs.org/tutorial/tutorial.html
 
 **Setting up Localhost**: https://discussions.apple.com/docs/DOC-13841 
-
 (I found this "tutorial" after struggling to get localhost to work for quite some time.  It didn't completely solve my problems, but it was helpful.  Turns out my `.conf`  had some errors and I had to go through and find the errors and figure out how to set up the host for differing file locations.) 
