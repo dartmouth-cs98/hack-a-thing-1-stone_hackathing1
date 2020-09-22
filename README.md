@@ -10,6 +10,8 @@ Note: main work is located in my-app/src
 Previously, I had no experience with JavaScript, css, or html. I spent a large portion of time (~2hrs) reviewing the syntax and the basics of the languages. I also learned how to set up localhost on my machine using Apache (MacOS), and how to configure `.conf` files . Initially, I had quite a few problems with setting up the localhost on my laptop, and I ended up spending a lot of time (~4hrs) becoming familiar with how localhosts can be set up and learned what `.conf` files are and how they work. 
 I learned a lot about React, the data structures used and I learned the basics of coding in JavaScript. 
 
+I quite enjoyed using React and I believe that I would use it again in the future, given the functionality and effectiveness.
+
 ## What Didn't Work:
 Ultimately the game worked, but I ended up debugging some things as I tried to avoid just copying code verbatim from the tutorial. Instead, I tried to determine how to get each functionality independently first, then looking at the other code if I got stuck. 
 
